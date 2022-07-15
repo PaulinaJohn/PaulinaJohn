@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Paulina John
-- 👀 I am a Human Resources Practitioner and budding Data Analyst interested in HR Analytics
+- 👀 I am a Human Resources Practitioner and budding Data Analyst interested in People Analytics
 - 🌱 I am currently working on my Google Data Analytics Professional Certificate Capstone Project, using R
 - 💞️ I am looking to collaborate on HR Analytics and General Data Analytics projects
 - 📫 You can reach me via paulinajohn.ey@gmail.com
